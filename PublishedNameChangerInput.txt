@@ -1,0 +1,3 @@
+Region	OE Abbreviation	XD Delivery Group Name	XD Controller
+EU	Abbreviation1	DeliveryGroupName1	XDControllerName1
+EU	Abbreviation2	DeliveryGroupName2	XDControllerName2
